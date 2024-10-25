@@ -44,8 +44,10 @@ const Todo = () => {
         <Card size="2">
           <Flex justify="between">
             <Heading color="black">Todo List</Heading>
+
             <Avatar size="5" src="gojo.jpg" fallback="A" />
           </Flex>
+            <Heading size="2" color="">Vicky this side😎</Heading>
           <Text as="p" size="3" weight="light">
             Add tasks to complete.
           </Text>
